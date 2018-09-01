@@ -16,11 +16,11 @@
 	},
 	"BuildProducts": [
 		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-BuildingEscape-5064.dll",
+			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-BuildingEscape-9869.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-BuildingEscape-5064.pdb",
+			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-BuildingEscape-9869.pdb",
 			"Type": "SymbolFile"
 		},
 		{
